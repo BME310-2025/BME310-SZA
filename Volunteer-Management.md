@@ -27,3 +27,27 @@ Gönüllüler, sistemdeki etkinliklere başvuru yapmak için aşağıdaki adıml
 - Başvuru onaylandığında gönüllüye bir bildirim gönderilir.
 - Başvuru reddedildiğinde de gönüllüye bildirim yapılır ve gerekirse alternatif etkinlik önerilir.
 
+## 10. Organizasyon Yetkililerinin Gönüllü Başvurularını Nasıl Onaylayacağı veya Reddedeceğini Açıklayınız
+
+Organizasyon yetkilileri, gönüllü başvurularını onaylamak veya reddetmek için aşağıdaki adımları takip edebilirler:
+
+1. Ana panelde, başvuruları yapılan etkinlikler listelenir.
+2. İlgili etkinlik seçilir ve başvuran gönüllüler görüntülenir.
+3. Her gönüllü başvurusu için iki seçenek sunulur:
+   - **Onayla**: Gönüllü başvurusu onaylanır ve sistemdeki etkinliğe katılması sağlanır.
+   - **Reddet**: Gönüllü başvurusu reddedilir ve sistemden çıkarılır.
+4. Başvuru onaylandıktan sonra, gönüllüye bir bildirim gönderilir.
+5. Başvuru reddedildiğinde de gönüllüye bir bildirim gönderilir ve gerekirse alternatif etkinlik önerilir.
+
+---
+
+## Bildirim Olacak Mı?
+- Başvuru onaylandığında veya reddedildiğinde, **gönüllüye otomatik olarak bir bildirim gönderilir**.
+- Bildirim, gönüllüyü başvurusunun durumu hakkında bilgilendirir.
+
+---
+
+## Gönüllüye Bilgi Nasıl Ulaşacak?
+- Gönüllüye gönderilen bildirimler, sistemde kayıtlı olan iletişim bilgileri üzerinden yapılır.
+- Bildirimler, gönüllülerin **e-posta** veya **sistemdeki bildirimler** aracılığıyla iletilir.
+

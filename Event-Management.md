@@ -29,7 +29,7 @@ VolunteerHub platformunda, organizasyon yöneticileri aşağıdaki adımları ta
 - Yöneticinin etkinlik oluşturması **başka bir yönetici tarafından onaylanmalıdır**.
 - Etkinlik onaylandıktan sonra, gönüllüler etkinliğe başvuru yapabilirler.
 
-## 7. Var Olan Bir Etkinlikte Organizatör Tarafından Yapılacak Değişiklik Süreci
+## 4. Var Olan Bir Etkinlikte Organizatör Tarafından Yapılacak Değişiklik Süreci
 
 Bir etkinlik oluşturulduktan sonra, organizatörler aşağıdaki adımları takip ederek var olan etkinlik üzerinde değişiklikler yapabilirler:
 
@@ -60,5 +60,28 @@ Bir etkinlik oluşturulduktan sonra, organizatörler aşağıdaki adımları tak
 - Etkinlikte yapılan değişiklikler sonrası **gönüllüler ve katılımcılar** bilgilendirilir.
 - Bildirim, etkinliğe başvuran tüm kullanıcılar için otomatik olarak gönderilir.
 - Bildirim, etkinlikteki değişikliklerin tüm katılımcılara duyurulmasını sağlar.
+
+## 5. Bir Etkinliğin Sistemden Nasıl Silineceği ve Silinme Sonrası Oluşabilecek Etkiler
+
+Bir etkinlik, organizatör tarafından sistemden silinebilir. Etkinlik silme süreci aşağıdaki adımlarla gerçekleştirilir:
+
+1. Ana panelde, silinmek istenilen etkinlik seçilir.
+2. Etkinlik detay sayfasında, "Etkinliği Sil" butonuna tıklanır.
+3. Sistem, silme işlemini onaylamak için kullanıcıdan bir onay mesajı alır.
+4. Kullanıcı onayı verdikten sonra, etkinlik sistemden tamamen silinir ve geri alınamaz.
+
+---
+
+## Silinme Sonrası Oluşabilecek Etkiler
+- Etkinlik silindiğinde, etkinliğe başvuran gönüllüler ve katılımcılar etkinlikten çıkarılır.
+- Etkinlik, sistemdeki tüm kayıtlar ve takvimler üzerinden kaldırılır.
+- Etkinlik ile ilgili tüm veriler, yorumlar ve başvurular silinir.
+
+---
+
+## Katılan Gönüllülere Bildirim Gönderilecek Mi?
+- Etkinlik silindiğinde, **katılan gönüllülere ve başvuranlara** otomatik olarak bir bildirim gönderilir.
+- Bildirim, etkinliğin iptal edildiğini ve silindiğini bildirir.
+- Katılımcılar, silinen etkinlik hakkında bilgilendirilir ve alternatif etkinliklere yönlendirilir (varsa).
 
 

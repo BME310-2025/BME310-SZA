@@ -51,3 +51,28 @@ Organizasyon yetkilileri, gönüllü başvurularını onaylamak veya reddetmek i
 - Gönüllüye gönderilen bildirimler, sistemde kayıtlı olan iletişim bilgileri üzerinden yapılır.
 - Bildirimler, gönüllülerin **e-posta** veya **sistemdeki bildirimler** aracılığıyla iletilir.
 
+## 11. Etkinliklere Başvuran ve Kabul Edilen Gönüllülerin Nasıl Listeleneceğini Açıklayınız
+
+Organizasyon yetkilileri, etkinliklere başvuran ve başvurusu onaylanan gönüllülerin listesini görüntülemek için aşağıdaki adımları izlerler:
+
+1. Ana panelde "Etkinliklerim" sekmesine girilir.
+2. İlgili etkinlik seçilir.
+3. Etkinlik detay sayfasında "Katılımcı Listesi" sekmesi bulunur.
+4. Bu sekmede, başvurusu onaylanan tüm gönüllüler listelenir.
+
+---
+
+## Katılımcı Listesinde Hangi Bilgiler Gösterilecek?
+- Gönüllünün Adı Soyadı
+- İletişim Bilgileri (Telefon ve/veya E-posta)
+- Başvuru Tarihi
+- Önceki Deneyimler (Eğer gönüllü başvuruda belirttiyse)
+
+---
+
+## Organizatör Bu Listeyi Nasıl Kullanacak?
+- Organizasyon yetkilileri, katılımcı listesi üzerinden etkinlik öncesi gönüllülerle iletişime geçebilir.
+- Katılımcı listesi, etkinlik günü katılım kontrolü (check-in) yapmak için kullanılır.
+- Etkinlik sonrası geri bildirim ve teşekkür mesajları göndermek için listeden faydalanılır.
+- Gerekli durumlarda, gönüllülere etkinlikle ilgili bilgilendirme ve güncellemeler yapılır.
+

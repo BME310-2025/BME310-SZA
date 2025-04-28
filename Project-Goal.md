@@ -20,3 +20,18 @@ Topluma hizmeti artırmak ve gönüllülük faaliyetlerini dijital ortamda daha 
 - Organizasyonlar için gönüllü bulmayı kolaylaştırmak
 - Gönüllüler için etkinliklere katılımı teşvik etmek
 - Etkinlik sonrası raporlar üreterek sürekli gelişim sağlamak
+
+## 5. VolunteerHub Projesi İçin Net ve Ölçülebilir Hedefler
+
+- İlk 6 ayda en az **50 etkinlik** organize edilmesi hedeflenmektedir.
+- İlk yıl içerisinde en az **500 aktif gönüllü** kayıt altına alınması planlanmaktadır.
+- Etkinlik başına minimum **%70 gönüllü katılım oranı** sağlanması hedeflenmektedir.
+- Etkinlik sonrası düzenlenen memnuniyet anketlerinde **%80 ve üzeri memnuniyet oranı** yakalanması amaçlanmaktadır.
+
+### Başarıyı Nasıl Ölçeriz?
+
+- Düzenlenen toplam etkinlik sayısına göre hedef karşılaştırması yapılacaktır.
+- Aktif gönüllü sayısı platform kayıtları üzerinden ölçülecektir.
+- Etkinlik katılım oranları etkinlik yönetim modülünden raporlanacaktır.
+- Katılımcı anketleri üzerinden memnuniyet oranı hesaplanacaktır.
+

@@ -76,3 +76,26 @@ Organizasyon yetkilileri, etkinliklere başvuran ve başvurusu onaylanan gönül
 - Etkinlik sonrası geri bildirim ve teşekkür mesajları göndermek için listeden faydalanılır.
 - Gerekli durumlarda, gönüllülere etkinlikle ilgili bilgilendirme ve güncellemeler yapılır.
 
+## 12. Bir Gönüllünün Yaptığı Başvuruyu Nasıl İptal Edebileceğini Açıklayınız
+
+Gönüllüler, katılamayacakları etkinlikler için başvurularını aşağıdaki adımları izleyerek iptal edebilirler:
+
+1. Gönüllü kendi profil paneline giriş yapar.
+2. "Başvurularım" sekmesinden başvurmuş olduğu etkinlikleri görüntüler.
+3. İptal etmek istediği etkinliğin yanında bulunan "Başvuruyu İptal Et" butonuna tıklar.
+4. Sistem, gönüllüden iptal işlemini onaylamasını ister.
+5. Onay verildikten sonra başvuru iptal edilir ve etkinlik organizatörüne bildirilir.
+
+---
+
+## İptal İçin Son Tarih Olacak Mı?
+- Evet, iptal işlemleri **etkinlik başlangıç tarihinden en az 24 saat öncesine kadar** yapılabilir.
+- Etkinlikten 24 saatten az bir süre kala iptal yapılmak istenirse sistem iptale izin vermez ve kullanıcıya bilgi verir.
+
+---
+
+## Organizasyona Bildirim Gönderilecek Mi?
+- Gönüllü bir etkinlik başvurusunu iptal ettiğinde, **etkinliğin organizatörüne otomatik olarak bildirim gönderilir**.
+- Bildirimde, hangi gönüllünün hangi etkinlikten başvurusunu iptal ettiği bilgisi yer alır.
+- Organizasyon, boşalan kontenjanı başka bir gönüllü ile doldurabilir veya gerekli düzenlemeleri yapabilir.
+

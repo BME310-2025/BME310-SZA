@@ -50,3 +50,33 @@ VolunteerHub etkinliklerinde düşük gönüllü katılımı yaşanması halinde
    - Gönüllü ilgisini artırmak için etkinlik açıklamaları, görselleri ve çağrı metinleri güncellenecektir.
 
 Bu önlemler düşük katılım riskini minimize ederek, etkinliklerin başarı oranını artırmayı hedeflemektedir.
+
+# Teknik Problemler İçin Acil Müdahale Planı
+
+VolunteerHub platformunda yaşanabilecek teknik sorunlar (sistem çökmesi, sunucu hatası, veritabanı bağlantı problemleri) durumunda uygulanacak acil eylem planı:
+
+1. **Olay Tespiti:**  
+   - Sistem izleme araçları (monitoring tools) tarafından hata algılandığında, otomatik alarm tetiklenir.
+   - Kullanıcılardan gelen hata bildirimleri de takip edilir.
+
+2. **İlk Müdahale:**  
+   - Teknik destek ekibi ilk 15 dakika içinde bilgilendirilir.
+   - Sistemin mevcut durumu hızlıca analiz edilir.
+
+3. **Bilgilendirme:**  
+   - Teknik ekip, organizasyon yöneticilerine durum hakkında kısa bir bilgilendirme raporu sunar.
+   - Eğer sistem kesintisi 30 dakikayı aşarsa, kullanıcılar için platform ana sayfasında bilgilendirme mesajı yayınlanır.
+
+4. **Acil Müdahale Eylemleri:**  
+   - Sunucu yeniden başlatma
+   - Hızlı yedek veri yükleme
+   - Geçici bakım moduna geçiş
+
+5. **Sorun Çözümü ve Raporlama:**  
+   - Sorunun kaynağı belirlenir ve kalıcı çözüm uygulanır.
+   - Sorun çözüm süreci raporlanır ve proje yönetim ekibi ile paylaşılır.
+
+6. **İyileştirme:**  
+   - Aynı problemin tekrar yaşanmaması için sistem yapılandırması ve güvenlik protokolleri gözden geçirilir.
+
+Bu plan, sistemin kesinti süresini minimumda tutmak ve kullanıcı memnuniyetini korumak amacıyla geliştirilmiştir.

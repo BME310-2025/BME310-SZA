@@ -29,3 +29,24 @@ VolunteerHub projesi süresince karşılaşılabilecek temel riskler aşağıdak
 ---
 
 Bu riskler proje yönetimi süresince düzenli olarak izlenecek ve güncellenecektir.
+
+# Düşük Katılım Riski Çözüm Planı
+
+VolunteerHub etkinliklerinde düşük gönüllü katılımı yaşanması halinde uygulanacak çözüm stratejileri şunlardır:
+
+1. **Yedek Gönüllü Listesi Oluşturma:**  
+   - Her etkinlik için ana kayıtlı gönüllülerin yanında, alternatif yedek listesi oluşturulacaktır.
+   - Ana gönüllüler katılamazsa, yedek listedeki gönüllüler davet edilecektir.
+
+2. **Ekstra Tanıtım ve Duyuru:**  
+   - Düşük katılım riski tespit edildiğinde, sosyal medya ve e-posta üzerinden ek tanıtım kampanyası yürütülecektir.
+   - Etkinlik tarihi yaklaşırken bildirim sıklığı artırılacaktır.
+
+3. **Teşvik Edici Uygulamalar:**  
+   - Etkinliğe katılan gönüllülere teşekkür belgeleri veya küçük ödüller sunulacaktır.
+   - Aktif gönüllüler platform üzerinde görünür şekilde takdir edilecektir.
+
+4. **Etkinlik Bilgilerini Güncelleme:**  
+   - Gönüllü ilgisini artırmak için etkinlik açıklamaları, görselleri ve çağrı metinleri güncellenecektir.
+
+Bu önlemler düşük katılım riskini minimize ederek, etkinliklerin başarı oranını artırmayı hedeflemektedir.

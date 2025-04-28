@@ -14,3 +14,29 @@ VolunteerHub platformunda etkinlikler tamamlandıktan sonra gönüllü katılım
 5. Raporlar, sistem istatistikleri ve gönüllü değerlendirmeleri için temel veri kaynağı olarak kullanılır.
 
 Katılım raporlaması, organizasyonların etkinlik başarısını ölçmesi ve gelecekteki etkinlikler için iyileştirme yapması açısından kritik bir süreçtir.
+
+# Etkinlik Başarısı Ölçme Kriterleri
+
+VolunteerHub platformunda etkinliklerin başarı düzeyi çeşitli kriterler kullanılarak değerlendirilir. Başarı ölçüm süreci aşağıdaki adımları içerir:
+
+1. **Katılım Oranı:**  
+   - Etkinliğe kayıt olan gönüllülerden kaçının gerçekten katıldığı ölçülür.
+   - Katılım oranı = (Gerçek Katılımcı Sayısı / Kayıtlı Gönüllü Sayısı) × 100
+
+2. **Gönüllü Memnuniyeti:**  
+   - Etkinlik sonunda gönüllülere memnuniyet anketi gönderilir.
+   - Anket sonuçları analiz edilir.
+   - Ortalama memnuniyet skoru %80'in üzerindeyse etkinlik başarılı sayılır.
+
+3. **Etkinlik Yorumları:**  
+   - Gönüllülerden toplanan serbest formdaki geri bildirimler incelenir.
+   - Pozitif geri bildirim oranı belirlenir.
+
+4. **Organizasyon Değerlendirmesi:**  
+   - Organizasyon yöneticileri tarafından yapılan iç değerlendirme sonuçları dikkate alınır.
+
+5. **Başarı Raporlaması:**  
+   - Yukarıdaki kriterlere göre etkinlik, "Başarılı", "Kısmen Başarılı" veya "Başarısız" olarak sınıflandırılır.
+   - Bu sınıflandırma etkinlik sonrası oluşturulan raporlara yansıtılır.
+
+Bu ölçüm kriterleri, etkinlik kalitesinin artırılması ve gelecekteki etkinlik planlamalarının daha verimli yapılabilmesi amacıyla kullanılır.

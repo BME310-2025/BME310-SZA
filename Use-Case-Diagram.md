@@ -1,6 +1,6 @@
-Volunteer: Browsing events, applying for events, and providing feedback.
+Gönüllü: Etkinlikleri inceleme, etkinliklere başvurma ve geri bildirim sağlama.
 
-Organizer: Creating events, managing volunteer applications, and generating reports.
+Organizatör: Etkinlik oluşturma, gönüllü başvurularını yönetme ve raporlar oluşturma.
 
-System Management: Monitoring and maintaining the system, including backups and security.
+Sistem Yönetimi: Sistemi izleme ve yedekleme ile güvenlik dahil olmak üzere sistemin bakımını sağlama.
 

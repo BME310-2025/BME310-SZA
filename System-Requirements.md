@@ -1,67 +1,50 @@
-Here are the functional and non-functional requirements for the VolunteerHub system:
+VolunteerHub Sistemi için Fonksiyonel ve Fonksiyonel Olmayan Gereksinimler
+Fonksiyonel Gereksinimler
+Etkinlik Oluşturma:
+Organizatörler, etkinlik adı, tarih, konum ve gerekli gönüllü sayısı gibi bilgileri girerek yeni etkinlikler oluşturabilmelidir.
 
-Functional Requirements
-Event Creation:
+Etkinlik Kaydı:
+Gönüllüler, mevcut etkinlikleri görüntüleyebilmeli ve ilgilendikleri etkinliklere katılmak için başvuruda bulunabilmelidir.
 
-Organizers should be able to create new events by entering details such as event name, date, location, and required number of volunteers.
+Gönüllü Kayıt Yönetimi:
+Organizatörler, her etkinlik için kayıtlı gönüllüleri görüntüleyebilmeli ve başvuruları onaylayıp reddedebilmelidir.
 
-Event Registration:
+Etkinlik Hatırlatma Bildirimleri:
+Sistem, yaklaşan etkinlikler hakkında hem gönüllülere hem de organizatörlere otomatik olarak hatırlatma bildirimleri göndermelidir.
 
-Volunteers should be able to browse available events and apply to participate in the ones they are interested in.
+Etkinlik Sonrası Geri Bildirim:
+Sistem, etkinlik tamamlandıktan sonra gönüllülerin etkinlik hakkında geri bildirimde bulunmasına olanak tanımalıdır.
 
-Volunteer Registration Management:
+Gönüllü Profili:
+Gönüllüler, yetenekleri, gönüllülük deneyimleri ve etkinlik tercihleri gibi bilgileri içeren profiller oluşturup güncelleyebilmelidir.
 
-Organizers should be able to view the list of registered volunteers for each event and approve or reject their applications.
+Etkinlik Raporlama:
+Organizatörler, katılımcı verileri, geri bildirimler ve etkinlik performans metriklerini içeren etkinlik raporları oluşturabilmelidir.
 
-Event Reminder Notifications:
+Fonksiyonel Olmayan Gereksinimler
+Performans:
+Sistem, yoğun kullanım dönemlerinde en az 500 eşzamanlı kullanıcıyı önemli bir performans düşüşü olmadan destekleyebilmelidir.
 
-The system should automatically send reminders to both volunteers and organizers about the upcoming events.
+Ölçeklenebilirlik:
+Sistem, kullanıcı, etkinlik ve gönüllü sayısındaki artışlara rağmen yatay olarak ölçeklenebilir şekilde tasarlanmalıdır.
 
-Post-Event Feedback:
+Güvenlik:
+Sistem, kullanıcı verilerinin (kişisel bilgiler ve gönüllülük geçmişi dahil) güvenliğini sağlamak için uygun şifreleme yöntemleri ve erişim kontrolleri uygulamalıdır.
 
-The system should allow volunteers to provide feedback about the event once it is completed.
+Erişilebilirlik / Kullanılabilirlik:
+Sistem %99,9 çalışma süresi garantisi vermeli, kesintilere karşı dayanıklı olmalı ve hizmet kesintilerini en aza indirmek için hızlı geri yükleme kabiliyetine sahip olmalıdır.
 
-Volunteer Profile:
+Kullanılabilirlik (Usability):
+Platform, hem organizatörler hem de gönüllüler için sezgisel ve kolay gezinilebilir bir arayüze sahip olmalıdır.
 
-Volunteers should be able to create and update their profiles, including information about their skills, volunteer experience, and event preferences.
+Uyumluluk:
+Sistem, popüler web tarayıcılarının (Chrome, Firefox, Safari, Edge) en güncel sürümleri ve mobil cihazlar (iOS ve Android) ile uyumlu olmalıdır.
 
-Event Reporting:
+Yedekleme ve Veri Kurtarma:
+Sistem, otomatik yedekleme mekanizmalarına sahip olmalı ve veri kaybını önlemek ile iş sürekliliğini sağlamak için belirlenmiş bir veri kurtarma stratejisi barındırmalıdır.
 
-Organizers should be able to generate event reports, including participant data, feedback, and event performance metrics.
+Yanıt Süresi:
+Sistem, form gönderimleri veya etkinlik sayfalarının yüklenmesi gibi kullanıcı etkileşimlerinde en fazla 2 saniyelik yanıt süresi sağlamalıdır.
 
-Non-Functional Requirements
-Performance:
-
-The system should be capable of handling at least 500 simultaneous users during peak periods without significant performance degradation.
-
-Scalability:
-
-The system should be designed to scale horizontally to handle increasing numbers of users, events, and volunteers without compromising system performance.
-
-Security:
-
-The system must ensure the security of user data, including personal information and volunteer history, by implementing proper encryption methods and access controls.
-
-Availability:
-
-The system must guarantee 99.9% uptime and be resilient to downtime, with rapid restoration capabilities to minimize service disruptions.
-
-Usability:
-
-The platform should have an intuitive and easy-to-navigate interface for both organizers and volunteers.
-
-Compatibility:
-
-The system should be compatible with the latest versions of popular web browsers (Chrome, Firefox, Safari, Edge) and mobile devices (iOS and Android).
-
-Backup and Data Recovery:
-
-The system should have automated backups and a well-defined data recovery strategy to prevent data loss and ensure business continuity.
-
-Response Time:
-
-The system should have a maximum response time of 2 seconds for user interactions like form submissions or event page loads.
-
-Compliance:
-
-The system should adhere to data protection regulations like GDPR (General Data Protection Regulation) to ensure user privacy and data security.
+Yasal Uyumluluk:
+Sistem, kullanıcı gizliliğini ve veri güvenliğini sağlamak için GDPR (Genel Veri Koruma Tüzüğü) gibi veri koruma düzenlemelerine uygun olmalıdır.

@@ -68,3 +68,12 @@ VolunteerHub platformunda kullanıcılar hesaplarına giriş yaptıktan sonra ke
 - Bilgiler güncellenmeden önce oturum doğrulaması yapılır (aktif login kontrolü).
 - Şüpheli değişikliklerde kullanıcıya e-posta bildirimi gönderilir.
 
+## Şifre Güçlendirme Gereksinimi
+
+Kullanıcıların sisteme kaydolurken ve giriş yaparken kullandıkları şifrelerin en az 8 karakter uzunluğunda olması gerekmektedir.
+
+Şifre güvenlik kriterleri:
+
+- Minimum 8 karakter
+- Büyük harf, küçük harf, rakam ve özel karakter kombinasyonu önerilir
+- Zayıf şifreler sistem tarafından reddedilecektir

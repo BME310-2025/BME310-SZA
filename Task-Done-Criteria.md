@@ -1,57 +1,58 @@
-1. Task Completion Criteria
-Code Implementation (if applicable):
+1. Görev Tamamlanma Kriterleri
+Kod Uygulaması (uygulanabilirse):
 
-The code is written and tested to meet the requirements outlined in the task.
+Kod, görevde belirtilen gereksinimleri karşılayacak şekilde yazılmış ve test edilmiştir.
 
-The code passes all relevant unit tests, integration tests, and end-to-end tests.
+Kod, ilgili tüm birim testlerini, entegrasyon testlerini ve uçtan uca testleri geçmiştir.
 
-The code is reviewed and approved by at least one team member.
+Kod en az bir ekip üyesi tarafından gözden geçirilmiş ve onaylanmıştır.
 
-Any refactor or optimization suggestions have been implemented, if applicable.
+Gerekliyse, yeniden yapılandırma veya optimizasyon önerileri uygulanmıştır.
 
-File Submission:
+Dosya Teslimi:
 
-Any relevant files (e.g., source code, database scripts, configuration files) have been committed to the version control system (e.g., Git).
+İlgili tüm dosyalar (ör. kaynak kodu, veritabanı betikleri, yapılandırma dosyaları) sürüm kontrol sistemine (ör. Git) yüklenmiştir.
 
-The files are structured according to the project’s standards, and the commit messages are clear and follow the project’s naming conventions.
+Dosyalar, projenin standartlarına uygun şekilde yapılandırılmıştır ve commit mesajları açık, anlaşılır ve proje adlandırma kurallarına uygundur.
 
-Documentation:
+Dokümantasyon:
 
-Documentation for the task (including technical documentation, API documentation, or user manuals) has been updated.
+Görevle ilgili belgeler (teknik dokümantasyon, API dokümantasyonu veya kullanıcı kılavuzları dahil) güncellenmiştir.
 
-Any necessary diagrams (e.g., ERDs, flowcharts) have been included if required by the task.
+Gerekliyse, görev kapsamında ER diyagramları, akış şemaları gibi diyagramlar eklenmiştir.
 
-Issue Closure:
+İş Kapatma:
 
-The corresponding issue in the project management tool (e.g., GitHub Issues, Jira) has been marked as resolved or closed.
+Proje yönetim aracındaki (ör. GitHub Issues, Jira) ilgili iş, tamamlandı veya kapatıldı olarak işaretlenmiştir.
 
-The task is linked to the relevant issue, and all associated tasks or subtasks have been completed and closed.
+Görev, ilgili iş ile ilişkilendirilmiş ve ona bağlı tüm işler veya alt görevler tamamlanıp kapatılmıştır.
 
-If the task impacts other areas of the system, related issues are either updated or linked to indicate dependencies.
+Görev sistemin diğer alanlarını etkiliyorsa, ilişkili işler güncellenmiş veya bağımlılıkları göstermek için ilişkilendirilmiştir.
 
-Feature Testing:
+Özellik Testi:
 
-The feature or functionality has been tested in the relevant environments (e.g., development, staging) and works as expected.
+Özellik veya işlevsellik, ilgili ortamlarda (ör. geliştirme, test) test edilmiş ve beklendiği şekilde çalışmaktadır.
 
-User Acceptance Testing (UAT) or testing by a product owner has been completed, if applicable.
+Kullanıcı Kabul Testi (UAT) veya ürün sahibi tarafından test edilmesi gerekiyorsa, test tamamlanmıştır.
 
-Any bugs or issues identified during testing have been resolved.
+Test sırasında tespit edilen tüm hatalar veya sorunlar çözülmüştür.
 
-Deployment (if applicable):
+Dağıtım (uygulanabilirse):
 
-If the task involves deployment, the changes have been successfully deployed to the staging environment, and any configuration changes have been tested.
+Görev dağıtım içeriyorsa, yapılan değişiklikler başarıyla staging ortamına dağıtılmış ve yapılandırma değişiklikleri test edilmiştir.
 
-The task is ready for production deployment once it passes all testing stages.
+Tüm test aşamaları geçildiğinde, görev prodüksiyon ortamına dağıtıma hazırdır.
 
-Task Completion Checklist:
-Code is implemented and tested.
+Görev Tamamlanma Kontrol Listesi:
+Kod uygulanmış ve test edilmiştir.
 
-Relevant files are committed with appropriate commit messages.
+İlgili dosyalar, uygun commit mesajlarıyla birlikte yüklenmiştir.
 
-Documentation (if needed) is updated and complete.
+Gerekli belgeler güncellenmiş ve tamamlanmıştır.
 
-The issue is closed and linked to the task.
+İlgili iş kapatılmış ve göreve bağlanmıştır.
 
-The feature or functionality is fully tested.
+Özellik veya işlevsellik tamamen test edilmiştir.
 
-Deployment (if applicable) is completed and verified.
+Dağıtım (varsa) tamamlanmış ve doğrulanmıştır.
+

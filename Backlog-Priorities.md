@@ -1,70 +1,71 @@
-1. Initial Setup and Infrastructure (High Priority)
-Set up development environment (Docker, Django, Database)
+Başlangıç Kurulumu ve Altyapı (Yüksek Öncelik)
 
-Set up version control (GitHub or GitLab repository)
+Geliştirme ortamını kurun (Docker, Django, Veritabanı)
 
-Create basic user authentication and authorization (Login/Signup system for Volunteers and Organizers)
+Sürüm kontrolü kurun (GitHub veya GitLab deposu)
 
-Set up basic database models (User, Event, Participation, Feedback)
+Temel kullanıcı kimlik doğrulama ve yetkilendirme oluşturun (Gönüllüler ve Organizasyonlar için Giriş/Kayıt sistemi)
 
-2. Core Features for Event Management (High Priority)
-Create Event Creation functionality (Allow organizers to create events with details)
+Temel veritabanı modellerini oluşturun (Kullanıcı, Etkinlik, Katılım, Geri Bildirim)
 
-Event Listing for Volunteers (Enable volunteers to see available events)
+Etkinlik Yönetimi İçin Temel Özellikler (Yüksek Öncelik)
 
-Event Registration for Volunteers (Allow volunteers to apply for events)
+Etkinlik Oluşturma fonksiyonu oluşturun (Organizatörlerin etkinlik detaylarını girmesine izin verin)
 
-Create Participation model (Link between volunteers and events)
+Gönüllüler için Etkinlik Listeleme (Gönüllülerin mevcut etkinlikleri görmesini sağlayın)
 
-3. User Notifications and Reminders (Medium Priority)
-Implement Notification System (Send reminders for upcoming events, application status, etc.)
+Gönüllüler için Etkinlik Kaydı (Gönüllülerin etkinliklere başvurmalarını sağlayın)
 
-Send email/SMS notifications (For event reminders, registration status, etc.)
+Katılım modelini oluşturun (Gönüllüler ile etkinlikler arasında bağlantı kurun)
 
-4. Event Approval and Management (Medium Priority)
-Create Event Approval process for organizers (Approve/Reject volunteer applications)
+Kullanıcı Bildirimleri ve Hatırlatmalar (Orta Öncelik)
 
-Allow organizers to track volunteer applications (View and manage participants)
+Bildirim Sistemi uygulayın (Yaklaşan etkinlikler için hatırlatıcılar, başvuru durumu vb. gönderin)
 
-5. Feedback System (Medium Priority)
-Create Feedback System for Volunteers (Allow volunteers to submit event feedback after participation)
+E-posta/SMS bildirimleri gönderin (Etkinlik hatırlatıcıları, kayıt durumu vb.)
 
-Store and analyze feedback data (For improvement and future events)
+Etkinlik Onayı ve Yönetimi (Orta Öncelik)
 
-6. Event Reporting and Analytics (Medium Priority)
-Create Reporting system for event data (Generate reports about event performance, volunteer participation, etc.)
+Organizatörler için Etkinlik Onayı süreci oluşturun (Gönüllü başvurularını onaylayın/ret edin)
 
-Analyze feedback and participation data (Identify areas for improvement)
+Organizatörlerin gönüllü başvurularını takip etmelerini sağlayın (Katılımcıları görün ve yönetin)
 
-7. User Profile Management (Low Priority)
-Create Volunteer Profile Page (Allow volunteers to update their profile, skills, and volunteer history)
+Geri Bildirim Sistemi (Orta Öncelik)
 
-Create Organizer Profile Page (Allow organizers to manage their events and view volunteer participation)
+Gönüllüler için Geri Bildirim Sistemi oluşturun (Gönüllülerin etkinlik sonrasında geri bildirimde bulunmalarını sağlayın)
 
-8. System Maintenance and Optimization (Low Priority)
-Optimize Performance (Ensure the system can handle a large number of users and events)
+Geri bildirim verilerini depolayın ve analiz edin (Gelişim ve gelecekteki etkinlikler için)
 
-Ensure Data Backup & Recovery (Set up automated backups and data recovery mechanisms)
+Etkinlik Raporlama ve Analitik (Orta Öncelik)
 
-Security Enhancements (Improve user data security, implement encryption)
+Etkinlik verileri için Raporlama sistemi oluşturun (Etkinlik performansı, gönüllü katılımı vb. hakkında raporlar oluşturun)
 
-9. Compliance and Legal (Low Priority)
-Ensure GDPR Compliance (Ensure data privacy and user rights protection)
+Geri bildirim ve katılım verilerini analiz edin (İyileştirilmesi gereken alanları belirleyin)
 
-Legal and Terms of Service Setup (Create Terms of Service and Privacy Policy)
+Kullanıcı Profil Yönetimi (Düşük Öncelik)
 
-10. Final Testing and Deployment (Low Priority)
-Conduct User Acceptance Testing (UAT)
+Gönüllü Profil Sayfası oluşturun (Gönüllülerin profillerini, becerilerini ve gönüllü geçmişlerini güncellemelerini sağlayın)
 
-Final Deployment on Cloud/Server
+Organizator Profil Sayfası oluşturun (Organizatörlerin etkinliklerini yönetmelerini ve gönüllü katılımını görüntülemelerini sağlayın)
 
-Create User Documentation and Help Resources
+Sistem Bakımı ve Optimizasyonu (Düşük Öncelik)
 
+Performans optimizasyonu yapın (Sistemin büyük sayıda kullanıcı ve etkinlik ile başa çıkmasını sağlayın)
 
+Veri Yedekleme ve Kurtarma sağlama (Otomatik yedeklemeler ve veri kurtarma mekanizmaları kurun)
 
+Güvenlik İyileştirmeleri (Kullanıcı verisi güvenliğini geliştirin, şifreleme uygulayın)
 
+Uyum ve Hukuki (Düşük Öncelik)
 
+GDPR Uyumunu Sağlayın (Veri gizliliği ve kullanıcı hakları koruması)
 
+Hukuki ve Hizmet Şartları Düzenlemeleri (Hizmet Şartları ve Gizlilik Politikası oluşturun)
 
+Son Testler ve Yayın (Düşük Öncelik)
 
+Kullanıcı Kabul Testi (UAT) yapın
 
+Son Yayınlamayı Bulut/Server üzerinde yapın
+
+Kullanıcı Belgeleri ve Yardım Kaynakları oluşturun

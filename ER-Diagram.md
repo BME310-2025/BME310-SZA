@@ -1,9 +1,9 @@
-User (Volunteer, Organizer): Users can either be volunteers or organizers, interacting with events.
+Kullanıcı (Gönüllü, Organizator): Kullanıcılar ya gönüllü ya da organizatör olarak etkinliklerle etkileşime girebilirler.
 
-Event: Events that volunteers can apply to.
+Etkinlik: Gönüllülerin başvurduğu etkinlikler.
 
-Participation: Represents the volunteer's involvement in an event.
+Katılım: Gönüllünün bir etkinlikteki katılımını temsil eder.
 
-Feedback: After the event, volunteers can provide feedback.
+Geri Bildirim: Etkinlik sonrası gönüllüler geri bildirimde bulunabilir.
 
-Notification: Alerts sent to users regarding event updates.
+Bildirim: Etkinlik güncellemeleriyle ilgili kullanıcılara gönderilen uyarılar.
